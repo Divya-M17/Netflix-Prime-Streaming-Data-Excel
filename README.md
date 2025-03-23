@@ -14,7 +14,7 @@ This project analyzes Netflix Prime Streaming Data to uncover key insights about
 Dataset: Netflix Prime Streaming Data (Excel)
 
 Tools Used:
-Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Power Query)
+Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
 Excel Functions: SUMIF, AVERAGEIF, COUNTIF, INDEX-MATCH
 Data Cleaning & Transformation
 
